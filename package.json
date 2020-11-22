@@ -1,0 +1,20 @@
+{
+  "name": "qiankun-explore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd test-root & npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terry-Su/qiankun-explore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terry-Su/qiankun-explore/issues"
+  },
+  "homepage": "https://github.com/Terry-Su/qiankun-explore#readme"
+}
